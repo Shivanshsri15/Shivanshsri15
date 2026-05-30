@@ -4,7 +4,6 @@
  <p align="center">
   🚀 Currently building production-grade systems at <strong>Venwiz Technologies</strong> — used by TATA, Nestlé, L&T, ITC, Adani & Godrej
 </p>
----
 
 ### 👨‍💻 About Me
 
