@@ -12,10 +12,18 @@
 ### 👨‍💻 About Me
 
 - 🔭 I'm currently working as a **Software Engineer Intern** at [Venwiz Technologies](https://venwiz.com) (VC-funded)
-- 🌱 Exploring **Agentic AI** — LangGraph, CrewAI, RAG pipelines & autonomous agent orchestration
-- 🏗️ Built an **offline-first React Native mobile app** with queue-based sync for industrial field ops
-- ⚙️ Engineered **10+ real-time cron pipelines** for enterprise clients across multiple verticals
-- 🎯 Passionate about building systems that save hundreds of hours of manual work
+Here's a snapshot of what I've shipped there so far:
+
+- 🏭 **L&T Automation & Data Ingestion** — Tasked with eliminating manual data-entry bottlenecks for L&T's procurement workflow. Engineered a full data ingestion pipeline that parses complex, multi-sheet Excel documents, automatically creates and maps Purchase Orders to the correct project milestones, and triggers an **auto-locking mechanism** post-import to ensure strict data integrity — reducing onboarding time and removing a major human-error surface.
+
+- ⚙️ **Automated Scheduled Pipelines** — Designed and maintain **10+ scalable cron jobs and event-driven pipelines** that keep stakeholder dashboards live and accurate across enterprise clients including Primetals, L&T, Thermax, Zeeco, JNK, and FLSmidth. These pipelines handle **real-time Google Sheets synchronization**, multi-dimensional product analytics, and **automated delay detection with alert dispatch** — saving hundreds of hours of manual reporting every month.
+
+- 📱 **Offline-First Mobile App** — Led the **end-to-end development of the MMT mobile app from scratch** using React Native (Expo + Ignite) to support field engineers in low-connectivity industrial zones. Built a robust **queue-based offline sync engine** with conflict resolution, background reconciliation, transaction batching, and media persistence — ensuring uninterrupted data capture even without internet access.
+
+- 🗂️ **Issue Tracking & Collaboration Module** — Addressed cross-functional communication gaps by building a full **Issue Tracking and Activity Logging system** within the backend. Implemented threaded commenting, automated issue generation based on project lifecycle triggers (e.g. milestone delays, stage transitions), and complete status lifecycle management (open → in-progress → resolved) — significantly improving coordination between project managers, vendors, and field teams.
+
+Beyond my internship, I actively build with **Agentic AI** — including multi-agent pipelines using CrewAI & LangGraph, RAG systems with ChromaDB, and integrations across OpenAI, Gemini, and the Anthropic SDK.
+
 - 📍 Based in Noida, UP, India
 
 ---
