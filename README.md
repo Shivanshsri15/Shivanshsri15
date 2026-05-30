@@ -81,19 +81,6 @@ I'm a full stack software engineer who loves building systems that solve real, h
 | ☁️ AWS Cloud Foundations | Certification completed |
 | ☁️ AWS Academy Training | Certification completed |
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivanshsri15&show_icons=true&theme=tokyonight&hide_border=true" alt="Shivansh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshsri15&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivanshsri15&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ### 📬 Connect With Me
 
