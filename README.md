@@ -3,29 +3,22 @@
 
 <p align="center">
   🚀 Currently building production-grade systems at <strong>Venwiz Technologies</strong> — used by TATA, Nestlé, L&T, ITC, Adani & Godrej
+<img align="right" height="160" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
 </p>
 
-<img align="right" height="160" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working as a **Software Engineer Intern** at [Venwiz Technologies](https://venwiz.com) (VC-funded)
-Here's a snapshot of what I've shipped there so far:
+I'm a full stack software engineer who loves building systems that solve real, high-stakes problems at scale. I care deeply about writing production-ready code — from architecting offline-first mobile experiences to designing event-driven backend pipelines that run reliably across enterprise environments.
 
-- 🏭 **L&T Automation & Data Ingestion** — Tasked with eliminating manual data-entry bottlenecks for L&T's procurement workflow. Engineered a full data ingestion pipeline that parses complex, multi-sheet Excel documents, automatically creates and maps Purchase Orders to the correct project milestones, and triggers an **auto-locking mechanism** post-import to ensure strict data integrity — reducing onboarding time and removing a major human-error surface.
-
-- ⚙️ **Automated Scheduled Pipelines** — Designed and maintain **10+ scalable cron jobs and event-driven pipelines** that keep stakeholder dashboards live and accurate across enterprise clients including Primetals, L&T, Thermax, Zeeco, JNK, and FLSmidth. These pipelines handle **real-time Google Sheets synchronization**, multi-dimensional product analytics, and **automated delay detection with alert dispatch** — saving hundreds of hours of manual reporting every month.
-
-- 📱 **Offline-First Mobile App** — Led the **end-to-end development of the MMT mobile app from scratch** using React Native (Expo + Ignite) to support field engineers in low-connectivity industrial zones. Built a robust **queue-based offline sync engine** with conflict resolution, background reconciliation, transaction batching, and media persistence — ensuring uninterrupted data capture even without internet access.
-
-- 🗂️ **Issue Tracking & Collaboration Module** — Addressed cross-functional communication gaps by building a full **Issue Tracking and Activity Logging system** within the backend. Implemented threaded commenting, automated issue generation based on project lifecycle triggers (e.g. milestone delays, stage transitions), and complete status lifecycle management (open → in-progress → resolved) — significantly improving coordination between project managers, vendors, and field teams.
-
-Beyond my internship, I actively build with **Agentic AI** — including multi-agent pipelines using CrewAI & LangGraph, RAG systems with ChromaDB, and integrations across OpenAI, Gemini, and the Anthropic SDK.
-
-- 📍 Based in Noida, UP, India
-
+- 💡 I gravitate toward problems that are **messy, ambiguous, and impactful** — the kind where good engineering saves people hundreds of hours of manual work
+- 🤖 Actively exploring **Agentic AI** — building autonomous multi-agent systems with LangGraph, CrewAI, RAG pipelines, and the OpenAI, Gemini & Anthropic SDKs
+- 🧠 I enjoy working across the full stack — React / React Native on the frontend, Node.js / NestJS on the backend, and Python for AI/automation work
+- 🌱 Currently sharpening my skills in **distributed systems**, **microservices architecture**, and **AI-native product development**
+- 🎓 B.Tech CSE (Data Science specialization) @ AKTU, expected 2027
+- 📍 Noida, UP, India &nbsp;·&nbsp; 💼 Open to **SWE-1 / SDE-1 roles & internships**
 ---
 
 ### 🛠️ Tech Stack
