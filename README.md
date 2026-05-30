@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivansh Srivastava</h1>
 <h3 align="center">Full Stack Engineer · Agentic AI Builder · CS Undergrad @ AKTU, India</h3>
-<span><img align="right" height="160" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" /></span>
-
-<!-- <p align="center">
+<!-- <span><img align="right" height="160" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" /></span> -->
+ <p align="center">
   🚀 Currently building production-grade systems at <strong>Venwiz Technologies</strong> — used by TATA, Nestlé, L&T, ITC, Adani & Godrej
-</p> -->
-
-
+</p>
 ---
 
 ### 👨‍💻 About Me
