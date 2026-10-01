@@ -1,19 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivansh Srivastava</h1>
-<h3 align="center">Full Stack Engineer · Agentic AI Builder · CS Undergrad @ AKTU, India</h3>
+<h3 align="center">ex-SWE intern @Venwiz technologies · Full Stack Engineer · Agentic AI Builder · CS Undergrad @ AKTU, India</h3>
 <!-- <span><img align="right" height="160" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" /></span> -->
- <p align="center">
-  🚀 Currently building production-grade systems at <strong>Venwiz Technologies</strong> — used by TATA, Nestlé, L&T, ITC, Adani & Godrej
-</p>
 
 ### 👨‍💻 About Me
 
-I'm a full stack software engineer who loves building systems that solve real, high-stakes problems at scale. I care deeply about writing production-ready code — from architecting offline-first mobile experiences to designing event-driven backend pipelines that run reliably across enterprise environments.
+I'm a software engineer who loves building systems that solve real, high-stakes problems at scale. I care deeply about writing production-ready code — from architecting offline-first mobile experiences to designing event-driven backend pipelines that run reliably across enterprise environments.
 
-- 💡 I gravitate toward problems that are **messy, ambiguous, and impactful** — the kind where good engineering saves people hundreds of hours of manual work
-- 🤖 Actively exploring **Agentic AI** — building autonomous multi-agent systems with LangGraph, CrewAI, RAG pipelines, and the OpenAI, Gemini & Anthropic SDKs
-- 🧠 I enjoy working across the full stack — React / React Native on the frontend, Node.js / NestJS on the backend, and Python for AI/automation work
-- 🌱 Currently sharpening my skills in **distributed systems**, **microservices architecture**, and **AI-native product development**
-- 🎓 B.Tech CSE (Data Science specialization) @ AKTU, expected 2027
 - 📍 Noida, UP, India &nbsp;·&nbsp; 💼 Open to **SWE-1 / SDE-1 roles & internships**
 ---
 
